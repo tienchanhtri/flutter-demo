@@ -1,8 +1,8 @@
 # Flutter demo
 
 ## Number teller
-![](images/number_teller.png)
+<img src="images/number_teller.png" width="30%">
 
 ## E-commerce listing
-![](images/ecom_list.png)
-![](images/ecom_list_review.png)
+<img src="images/ecom_list.png" width="30%">
+<img src="images/ecom_list_review.png" width="30%">
