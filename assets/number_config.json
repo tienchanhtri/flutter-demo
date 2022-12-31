@@ -1,0 +1,572 @@
+[
+  {
+    "color": "0",
+    "number": "0",
+    "description": "-"
+  },
+  {
+    "color": "0",
+    "number": "1",
+    "description": "Nghề nghiệp"
+  },
+  {
+    "color": "-1",
+    "number": "2",
+    "description": "Lo lắng tài chánh"
+  },
+  {
+    "color": "-1",
+    "number": "3",
+    "description": "Bất đồng ý kiến"
+  },
+  {
+    "color": "0",
+    "number": "4",
+    "description": "Tình cảm"
+  },
+  {
+    "color": "-1",
+    "number": "5",
+    "description": "Vận rủi"
+  },
+  {
+    "color": "0",
+    "number": "6",
+    "description": "Cơ hội"
+  },
+  {
+    "color": "-1",
+    "number": "7",
+    "description": "Xung đột"
+  },
+  {
+    "color": "0",
+    "number": "8",
+    "description": "Tiền tài"
+  },
+  {
+    "color": "0",
+    "number": "9",
+    "description": "-"
+  },
+  {
+    "color": "-1",
+    "number": "10",
+    "description": "Không tốt"
+  },
+  {
+    "color": "0",
+    "number": "11",
+    "description": "Hai công việc đồng thời, lệ thuộc phía sau tốt hay không"
+  },
+  {
+    "color": "-1",
+    "number": "12",
+    "description": "Đường nghề nghiệp khó khăn, tự thân lập nghiệp"
+  },
+  {
+    "color": "1",
+    "number": "13",
+    "description": "Lẹ làng khôn khéo"
+  },
+  {
+    "color": "1",
+    "number": "14",
+    "description": "Có tâm hướng thượng"
+  },
+  {
+    "color": "-1",
+    "number": "15",
+    "description": "Vận rủi"
+  },
+  {
+    "color": "-1",
+    "number": "16",
+    "description": "Tự thân lập nghiệp trắc trở"
+  },
+  {
+    "color": "1",
+    "number": "17",
+    "description": "Khôn khéo trực tính"
+  },
+  {
+    "color": "1",
+    "number": "18",
+    "description": "Nghề nghiệp sinh tiền tài - nghị lực lớn"
+  },
+  {
+    "color": "1",
+    "number": "19",
+    "description": "Nói năng ôn tồn, quyết đoán bản lãnh, lãnh đạo"
+  },
+  {
+    "color": "-1",
+    "number": "20",
+    "description": "Lo lắng rất ngặt, rồi mất hết"
+  },
+  {
+    "color": "1",
+    "number": "21",
+    "description": "Lanh lợi, lẹ làng, nhạy bén, đối tác yêu thương chân tình"
+  },
+  {
+    "color": "0",
+    "number": "22",
+    "description": "Người giỏi gian khôn khéo, trí tuệ. Nhưng hay lo lắng tài chánh. Sự thể hiện chưa sáng suốt"
+  },
+  {
+    "color": "1",
+    "number": "23",
+    "description": "Năng nổ, nhiệt tình, thông minh"
+  },
+  {
+    "color": "1",
+    "number": "24",
+    "description": "Lo lắng tình cảm, nói năng ôn tồn"
+  },
+  {
+    "color": "1",
+    "number": "25",
+    "description": "Nói năng ôn tồn, kỷ lưỡng tiền bạc. Nhưng sẳn sàng chi"
+  },
+  {
+    "color": "-1",
+    "number": "26",
+    "description": "Người xài không hạ tiện, không phung phí. Nhưng nếu cho cá nhân thì hơi phung phí"
+  },
+  {
+    "color": "1",
+    "number": "27",
+    "description": "(Nam) đảm đang, nhưng hay cằn nhằn, trực tính"
+  },
+  {
+    "color": "0",
+    "number": "28",
+    "description": "Lo lắng dễ giận hờn, nhưng có tài chánh"
+  },
+  {
+    "color": "1",
+    "number": "29",
+    "description": "Vượt lên"
+  },
+  {
+    "color": "-1",
+    "number": "30",
+    "description": "Bất đồng rồi phải chịu thua"
+  },
+  {
+    "color": "-1",
+    "number": "31",
+    "description": "Bỏ ngang nữa chừng sụp đổ"
+  },
+  {
+    "color": "1",
+    "number": "32",
+    "description": "Duyên dáng"
+  },
+  {
+    "color": "1",
+    "number": "33",
+    "description": "Lãnh đạo"
+  },
+  {
+    "color": "-1",
+    "number": "34",
+    "description": "Xung đột tình cảm người thân sát bên mình, người nữ thì nắm quyền trong tay"
+  },
+  {
+    "color": "-1",
+    "number": "35",
+    "description": "Lòng dạ ngỗn ngang, tâm rối bời"
+  },
+  {
+    "color": "-1",
+    "number": "36",
+    "description": "Đào hoa"
+  },
+  {
+    "color": "-1",
+    "number": "37",
+    "description": "Tâm tráo trở, phản nghịch"
+  },
+  {
+    "color": "1",
+    "number": "38",
+    "description": "Phước, tai họa đều qua"
+  },
+  {
+    "color": "-1",
+    "number": "39",
+    "description": "Bị bạc đãi"
+  },
+  {
+    "color": "0",
+    "number": "40",
+    "description": "Tâm hướng thượng → cô độc → xã hội tốt → gia đình xấu"
+  },
+  {
+    "color": "1",
+    "number": "41",
+    "description": "Có khả năng thuyết phục"
+  },
+  {
+    "color": "1",
+    "number": "42",
+    "description": "Được thương chân tình (chân thành)"
+  },
+  {
+    "color": "-1",
+    "number": "43",
+    "description": "Bị thiệt, bị áp bức dưới cơ"
+  },
+  {
+    "color": "0",
+    "number": "44",
+    "description": "Lãng mạn"
+  },
+  {
+    "color": "-1",
+    "number": "45",
+    "description": "Trắc trở tình duyên"
+  },
+  {
+    "color": "-1",
+    "number": "46",
+    "description": "Được người khác phái ngưỡng mộ"
+  },
+  {
+    "color": "-1",
+    "number": "47",
+    "description": "Xung đột tình cảm có thể chia tay - đồng sàng dị mộng"
+  },
+  {
+    "color": "0",
+    "number": "48",
+    "description": "Được nhận tiền từ người mình thương"
+  },
+  {
+    "color": "0",
+    "number": "49",
+    "description": "Quân tử được lòng - có một người trong nhà không hài lòng"
+  },
+  {
+    "color": "-1",
+    "number": "50",
+    "description": "Vận rủi bất ngờ → sụp đỗ → nợ nần"
+  },
+  {
+    "color": "-1",
+    "number": "51",
+    "description": "Công việc trở ngại có thể sụp đổ"
+  },
+  {
+    "color": "-1",
+    "number": "52",
+    "description": "Dễ giận hờn, thích tâm sự, ít bằng lòng ai"
+  },
+  {
+    "color": "-1",
+    "number": "53",
+    "description": "Bị liên lụy bởi việc xui của người thân"
+  },
+  {
+    "color": "-1",
+    "number": "54",
+    "description": "Ly dị 10% - tang 10% - bị trù dập (Tu sĩ)"
+  },
+  {
+    "color": "1",
+    "number": "55",
+    "description": "Kỹ lưỡng nguyên tắc"
+  },
+  {
+    "color": "0",
+    "number": "56",
+    "description": "Tiền hung hậu kiết"
+  },
+  {
+    "color": "-1",
+    "number": "57",
+    "description": "Bị chỉ trích, bị hại ngầm"
+  },
+  {
+    "color": "-1",
+    "number": "58",
+    "description": "Hao tiền, thất thoát"
+  },
+  {
+    "color": "-1",
+    "number": "59",
+    "description": "Vận rủi"
+  },
+  {
+    "color": "-1",
+    "number": "60",
+    "description": "Cơ hội vượt mất"
+  },
+  {
+    "color": "1",
+    "number": "61",
+    "description": "Cơ hội tốt đẹp trong nghề nghiệp"
+  },
+  {
+    "color": "-1",
+    "number": "62",
+    "description": "Đi nhiều nơi"
+  },
+  {
+    "color": "0",
+    "number": "63",
+    "description": "Tâm hướng thượng, thích làn thiện cụ thể, tính cấu gắt"
+  },
+  {
+    "color": "-1",
+    "number": "64",
+    "description": "Sự cố học vấn, cơ hội tình yêu"
+  },
+  {
+    "color": "0",
+    "number": "65",
+    "description": "Công việc hậu hung tiền cát"
+  },
+  {
+    "color": "1",
+    "number": "66",
+    "description": "Thu nhập và giữ tiền tốt"
+  },
+  {
+    "color": "-1",
+    "number": "67",
+    "description": "Nói nhiều"
+  },
+  {
+    "color": "1",
+    "number": "68",
+    "description": "Giữ được tiền"
+  },
+  {
+    "color": "0",
+    "number": "69",
+    "description": "Cơ hội lệ thuộc số sau"
+  },
+  {
+    "color": "1",
+    "number": "70",
+    "description": "Bị công kích nhưng nhận cho êm"
+  },
+  {
+    "color": "-1",
+    "number": "71",
+    "description": "Bất đồng trong nghề nghiệp lớn → ra đi"
+  },
+  {
+    "color": "-1",
+    "number": "72",
+    "description": "Vất vả, buồn phiền, đời sống gió"
+  },
+  {
+    "color": "0",
+    "number": "73",
+    "description": "Người có vị thế, lãng mạn, bị chỉ trích"
+  },
+  {
+    "color": "-1",
+    "number": "74",
+    "description": "Xung đột tình cảm có thể chia tay → đồng sàng dị mộng"
+  },
+  {
+    "color": "-1",
+    "number": "75",
+    "description": "Buồn phiền tài chánh hao hụt"
+  },
+  {
+    "color": "-1",
+    "number": "76",
+    "description": "Mẫu người hoạt bát, chủ quan, bảo thủ"
+  },
+  {
+    "color": "-1",
+    "number": "77",
+    "description": "Nói năng nhỏ nhẹ, nhưng cộc tánh"
+  },
+  {
+    "color": "-1",
+    "number": "78",
+    "description": "Thất thoát tài chánh"
+  },
+  {
+    "color": "-1",
+    "number": "79",
+    "description": "Bất đồng gia đình, thân tộc"
+  },
+  {
+    "color": "-1",
+    "number": "80",
+    "description": "Công việc đình trệ, buồn phiền âu lo, thân tình rạng nứt, mất mát người thâ → vượt lên tiền tài bất ngờ"
+  },
+  {
+    "color": "-1",
+    "number": "81",
+    "description": "Bị người hạ ngầm, vu khống, buồn giận, bị hạ nhục"
+  },
+  {
+    "color": "0",
+    "number": "82",
+    "description": "Người thẳng thắn, trung trực, không tích lũy tiền được"
+  },
+  {
+    "color": "0",
+    "number": "83",
+    "description": "Quyền lực"
+  },
+  {
+    "color": "1",
+    "number": "84",
+    "description": "Được thương chân tình (chân thành)"
+  },
+  {
+    "color": "-1",
+    "number": "85",
+    "description": "Thất thoát tiền bạc"
+  },
+  {
+    "color": "0",
+    "number": "86",
+    "description": "Giữ được tiền"
+  },
+  {
+    "color": "-1",
+    "number": "87",
+    "description": "Không giữ được tiền"
+  },
+  {
+    "color": "0",
+    "number": "88",
+    "description": "Ban đầu không tốt"
+  },
+  {
+    "color": "0",
+    "number": "89",
+    "description": "Giữ được tiền, cơ hội tiền tài, được hưởng đức từ người khác"
+  },
+  {
+    "color": "-1",
+    "number": "90",
+    "description": "Cơ hội tốt bị vuột, thay đổi việc làm"
+  },
+  {
+    "color": "1",
+    "number": "91",
+    "description": "Nghề nghiệp thăng tiến"
+  },
+  {
+    "color": "0",
+    "number": "92",
+    "description": "Lãnh đạo quyết đoán, nhưng có người chống đối"
+  },
+  {
+    "color": "0",
+    "number": "93",
+    "description": "Lãnh đạo quyết đoán, nhưng có người chống đối"
+  },
+  {
+    "color": "1",
+    "number": "94",
+    "description": "Người yêu mến, ngưỡng mộ"
+  },
+  {
+    "color": "-1",
+    "number": "95",
+    "description": "Tai nạn"
+  },
+  {
+    "color": "1",
+    "number": "96",
+    "description": "Cơ hội cực lớn"
+  },
+  {
+    "color": "-1",
+    "number": "97",
+    "description": "Chu kỳ giữa - xung đột dữ dội"
+  },
+  {
+    "color": "0",
+    "number": "98",
+    "description": "Cực giàu"
+  },
+  {
+    "color": "-1",
+    "number": "99",
+    "description": "Khởi tâm tham vọng"
+  },
+  {
+    "color": "1",
+    "number": "111",
+    "description": "Tam Hoa rất là tốt: được hưởng từ bổng lọc quan chức"
+  },
+  {
+    "color": "-1",
+    "number": "140",
+    "description": "Tâm cực ác"
+  },
+  {
+    "color": "1",
+    "number": "444",
+    "description": "Tam Hoa rất là tốt: được hưởng từ tình cảm"
+  },
+  {
+    "color": "0",
+    "number": "988",
+    "description": "Cuối cùng không tốt, mặc dù trước đó rất tốt"
+  },
+  {
+    "color": "-1",
+    "number": "1111",
+    "description": "Bị ngược đãi"
+  },
+  {
+    "color": "-1",
+    "number": "2222",
+    "description": "Bị ngược đãi"
+  },
+  {
+    "color": "-1",
+    "number": "3333",
+    "description": "Bị ngược đãi"
+  },
+  {
+    "color": "-1",
+    "number": "4444",
+    "description": "Bị ngược đãi"
+  },
+  {
+    "color": "-1",
+    "number": "5555",
+    "description": "Bị ngược đãi"
+  },
+  {
+    "color": "-1",
+    "number": "6666",
+    "description": "Bị ngược đãi"
+  },
+  {
+    "color": "-1",
+    "number": "7777",
+    "description": "Bị ngược đãi"
+  },
+  {
+    "color": "-1",
+    "number": "8888",
+    "description": "Bị ngược đãi"
+  },
+  {
+    "color": "-1",
+    "number": "9999",
+    "description": "Bị ngược đãi"
+  },
+  {
+    "color": "1",
+    "number": "4966633",
+    "description": "Cơ hội tiền bạc cực giàu"
+  }
+]
